@@ -18,5 +18,15 @@
     "Description": "test",
     "Code": "test",
     "CodeDescription": "test"
+  },
+  {
+    "Id": 2,
+    "Title": null,
+    "PublisDate": null,
+    "Category": null,
+    "Image": null,
+    "Description": null,
+    "Code": null,
+    "CodeDescription": null
   }
 ]
