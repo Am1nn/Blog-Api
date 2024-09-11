@@ -1,16 +1,6 @@
 [
   {
     "Id": 1,
-    "Title": "C# Classes ",
-    "PublisDate": "09/09/2024",
-    "Category": "C#",
-    "Image": "https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials.png",
-    "Description": "C# OOP(Object Oriented Programming) yeni Obyekt yonumlu programlastirma dilidir ve hersheyin basesi objectdir c# ta gore bileceyimiz butun Data Type-ler objectden torenir ",
-    "Code": "public user{}",
-    "CodeDescription": "wrjlkrfnewkjk"
-  },
-  {
-    "Id": 1,
     "Title": "C# N?dir",
     "PublisDate": "11/09/2024",
     "Category": "C#",
