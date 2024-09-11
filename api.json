@@ -8,5 +8,15 @@
     "Description": "C# OOP(Object Oriented Programming) yeni Obyekt yonumlu programlastirma dilidir ve hersheyin basesi objectdir c# ta gore bileceyimiz butun Data Type-ler objectden torenir ",
     "Code": "public user{}",
     "CodeDescription": "wrjlkrfnewkjk"
+  },
+  {
+    "Id": 1,
+    "Title": "C# N?dir",
+    "PublisDate": "11/09/2024",
+    "Category": "C#",
+    "Image": " ",
+    "Description": "C# (C sharp), Microsoft t?r?find?n inkisaf etdirilmis bir proqramlasdirma dilidir. Bu dil, genis m?qs?dl?r üçün istifad? olunur v? ?sas?n masaüstü proqramlari, veb t?tbiql?ri, mobil proqramlar v? oyunlar hazirlamaq üçün istifad? edilir. C# obyekt yönümlü bir dildir, y?ni obyektl?r v? sinifl?r üz?rind? isl?m?yi asanlasdirir.",
+    "Code": "",
+    "CodeDescription": "C# dilinin ?sas xüsusiyy?tl?ri:"
   }
 ]
