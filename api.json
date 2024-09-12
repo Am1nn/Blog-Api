@@ -15,7 +15,7 @@
     "PublisDate": "13/09/2024",
     "Category": ".Net Core",
     "Image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg",
-    "Description": "ASP.NET, Microsoft tərəfindən inkişaf etdirilən bir Framework-dur. ASP.NET istifadəçilərə dinamik web saytlar, web tətbiqləri və web xidmətləri yaratmaq imkanı verir. Bu framework C#, VB.NET kimi proqramlaşdırma dilləri ilə işləyir və geniş funksionallığı ilə tanınır.<br> ASP.NET, \"Active Server Pages\" (Aktiv Server Səhifələri) mənasını verir və onun .NET versiyasıdır. Bu Framework web tətbiqlərinin sürətli və etibarlı şəkildə yaradılması üçün nəzərdə tutulmuşdur və server tərəfində işləyən texnologiyadır.<br> ASP.NET, MVC (Model-View-Controller) və Web Forms kimi fərqli design modelləri dəstəkləyir. Üstünlükləri arasında asan təkmilləşdirilmə, təhlükəsizlik xüsusiyyətləri mövcuddur.",
+    "Description": "ASP.NET, Microsoft tərəfindən inkişaf etdirilən bir Framework-dur. ASP.NET istifadəçilərə dinamik web saytlar, web tətbiqləri və web xidmətləri yaratmaq imkanı verir. Bu framework C#, VB.NET kimi proqramlaşdırma dilləri ilə işləyir və geniş funksionallığı ilə tanınır.<br><br>ASP.NET, \"Active Server Pages\" (Aktiv Server Səhifələri) mənasını verir və onun .NET versiyasıdır. Bu Framework web tətbiqlərinin sürətli və etibarlı şəkildə yaradılması üçün nəzərdə tutulmuşdur və server tərəfində işləyən texnologiyadır.<br><br>ASP.NET, MVC (Model-View-Controller) və Web Forms kimi fərqli design modelləri dəstəkləyir. Üstünlükləri arasında asan təkmilləşdirilmə, təhlükəsizlik xüsusiyyətləri mövcuddur.",
     "Code": "",
     "CodeDescription": ""
   }
