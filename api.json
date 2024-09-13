@@ -8,5 +8,15 @@
     "Description": "C# (C sharp), Microsoft tərəfindən inkişaf etdirilmiş bir proqramlaşdırma dilidir. Bu dil, geniş məqsədlər üçün istifadə olunur və əsasən masaüstü proqramları, veb tətbiqləri, mobil proqramlar və oyunlar hazırlamaq üçün istifadə edilir. C# obyekt yönümlü bir dildir, yəni obyektlər və siniflər üzərində işləməyi asanlaşdırır.\r\n \r\nC# dilinin əsas xüsusiyyətləri:\r\n1.Sadə və güclü: C# istifadəsi asan və güclü xüsusiyyətlərə malikdir.\r\n2.OOP (Object Oriented Programming): Obyekt yönümlü proqramlaşdırma yanaşması, kodun təkrar istifadəsini və daha asan idarə olunmasını təmin edir.\r\n3.Platformlararası dəstək: C# .NET Framework və .NET Core ilə işləyir, bu da müxtəlif əməliyyat sistemlərində proqramlar yaratmağa imkan verir.\r\n4.Yüksək performanslıdır: C# dilində yazılan tətbiqlər yüksək performanslı olur.\r\n \r\nBu dil həm də təhlükəsiz proqram yazmaq üçün güclü tip təhlükəsizliyi ilə təmin edilmişdir.",
     "Code": "Console.WriteLine(\"Hello World!\");",
     "CodeDescription": ""
+  },
+  {
+    "Id": 1,
+    "Title": "ASP.NET Nədir?",
+    "PublisDate": "13/09/2024",
+    "Category": ".Net Core",
+    "Image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg",
+    "Description": "ASP.NET, Microsoft tərəfindən inkişaf etdirilən bir Frameworkdur. ASP.NET istifadəçilərə dinamik web saytlar, web tətbiqləri və web xidmətləri yaratmaq imkanı verir. Bu framework C#, VB.NET kimi proqramlaşdırma dilləri ilə işləyir və geniş funksionallığı ilə tanınır.\r\n \r\nASP.NET, \"Active Server Pages\" (Aktiv Server Səhifələri) mənasını verir və onun .NET versiyasıdır. Bu Framework web tətbiqlərinin sürətli və etibarlı şəkildə yaradılması üçün nəzərdə tutulmuşdur və server tərəfində işləyən texnologiyadır. ASP.NET, MVC (Model-View-Controller) və Web Forms kimi fərqli design modelləri dəstəkləyir.\r\n \r\nÜstünlükləri arasında asan təkmilləşdirilmə, təhlükəsizlik xüsusiyyətləri mövcuddur.",
+    "Code": "",
+    "CodeDescription": ""
   }
 ]
